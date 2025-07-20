@@ -1,5 +1,3 @@
-// src/App.js
-import React from 'react';
 import PlayersList from './components/PlayerList';
 
 export default function App() {
